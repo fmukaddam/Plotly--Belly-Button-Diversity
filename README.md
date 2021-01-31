@@ -5,7 +5,9 @@ The dataset reveals that a small handful of microbial species (also called opera
 # Steps involved in Coding
 1) Built functions and pulled Data from the json file. <br>
 2) Created a dashboard using HTML and its tags
-3) Built a Graph and a Bubble Chart which displays data linked to the demographic table
-4) Made the dashboard interactive such that when a new data was selected from the dropdown, the charts display the change
+3) Display the sample metadata, i.e., an individual's demographic information.
+4) Display each key-value pair from the metadata JSON object somewhere on the page.
+5) Built a Graph and a Bubble Chart which displays data linked to the demographic table
+6) Made the dashboard interactive such that when a new data was selected from the dropdown, the charts display the change
 
 
